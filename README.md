@@ -10,13 +10,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=techinrio&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 Troféus GitHub
-![](https://github-profile-trophy.vercel.app/?username=techinrio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=techinriocommunity&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Últimos Tweets
-[![](https://gtce.itsvg.in/api?username=techinrio)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=techinriocommunity)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=techinrio&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=techinriocommunity&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=techinrio&icon=1&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=techinriocommunity&icon=1&color=1)](https://visitcount.itsvg.in)
